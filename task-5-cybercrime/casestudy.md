@@ -1,3 +1,5 @@
+##Phishing
+
 **Phishing** is a type of cybercrime in which attackers trick people into sharing sensitive information such as passwords, bank details, or OTPs by pretending to be a trusted source.
 
 A typical phishing attack happens step-by-step. First, the attacker sends a fake email or message that looks like it is from a bank, company, or official service. The message usually creates urgency, such as “Your account will be blocked” or “Verify your details तुरंत.” Next, the user clicks on a link provided in the message, which opens a fake website that looks real. The user is then asked to enter login details or financial information. Once the information is entered, it is directly captured by the attacker.

@@ -1,12 +1,12 @@
 # Digital-Literacy
 Student Details
-Name: Mohit Bhawsar
-Registration Number: 25BAI10687
+## Name: Mohit Bhawsar
+## Registration Number: 25BAI10687
 
-Project Overview
+## Project Overview
 This project focuses on improving digital literacy skills through practical tasks such as creating an infographic, building a professional online portfolio, practicing coding, understanding cyber safety, and learning email etiquette. It helped me understand how to use digital tools effectively and responsibly.
 
- Module Summaries
+## Module Summaries
 
  Task 1: Digital Literacy Infographic
 - Created an infographic using Canva
@@ -28,5 +28,5 @@ This project focuses on improving digital literacy skills through practical task
 - Wrote a case study on phishing
 - Created a ‘Stay Safe Online’ checklist
 
-Important Links
+## Important Links
 Google Form:https://docs.google.com/forms/d/e/1FAIpQLSf4ome-Mvq4gcGgGfN3xoX__YuCADnLHtPQwPMOwhfBUj8X8A/viewform
